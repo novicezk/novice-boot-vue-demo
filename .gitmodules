@@ -1,0 +1,3 @@
+[submodule "novice-boot-vue"]
+	path = novice-boot-vue
+	url = git@github.com:novicezk/novice-boot-vue.git
